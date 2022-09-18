@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 # Python code that reduces a Matrix into its Row Echelon Form and finds the rank of the matrix.
 
 import numpy as np
@@ -68,10 +62,3 @@ print("\nThe Row Echelon Form is:")
 print(B)   
 rank = rankfind(B)
 print('The Rank is: ',rank)                
-
-
-# In[ ]:
-
-
-
-
